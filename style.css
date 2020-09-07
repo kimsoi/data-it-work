@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,300&family=Dancing+Script:wght@562&display=swap');
+ body{background-color : white;
+ font-family: 'Bitter', serif;
+ }
+            h1{
+                border-bottom:5px solid green;
+                padding:20px;
+                  }
+                 h1 a{
+                      text-decoration:none;
+                  }
+                  ol{
+                      border-right:10px solid red;
+                      margin-top:0;
+                      padding-top:10px;
+                  }
+                  #container{
+                      display : grid;
+                      grid-template-columns:150px 1fr;
+                  }
+                  h1{
+                      margin-bottom:0;
+                      font-family: 'Dancing Script', cursive;
+                  }
+
